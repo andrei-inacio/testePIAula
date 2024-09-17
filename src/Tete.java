@@ -9,6 +9,10 @@ public class Tete {
 		c
 		c
 		
+		z
+		cvz
+		vd
+		
 
 	}
 
